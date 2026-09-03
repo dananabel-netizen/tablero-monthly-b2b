@@ -1,0 +1,20 @@
+# Datos generados (no van al repo — se regeneran con build_monthly.py)
+monthly_data.js
+*.csv
+
+# Credenciales y entorno
+.env
+gcp_credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Scratchpad local
+scratchpad/
+
+# OS
+.DS_Store
+Thumbs.db
